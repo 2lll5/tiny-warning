@@ -22,6 +22,7 @@
   "bugs": {
     "url": "https://github.com/alexreardon/tiny-warning/issues"
   },
+  "homepage": "https://github.com/alexreardon/tiny-warning#readme",
   "license": "MIT",
   "scripts": {
     "test": "yarn jest",
